@@ -1,6 +1,6 @@
 # Samuel Halder - Professional Portfolio
 
-A modern, responsive, and interactive portfolio website showcasing my skills, experience, and services as a Full Stack Developer and System Administrator.
+A portfolio website showcasing my skills, experience, and services as a Full Stack Developer and System Administrator.
 
 
 
