@@ -1,42 +1,23 @@
-# Samuel Halder - Professional Portfolio
+# Samuel Halder Profile
 
-A portfolio website showcasing my skills, experience, and services as a Full Stack Developer and System Administrator.
+Static portfolio page for GitHub Pages.
 
+## Contents
 
+- `index.html` contains the profile content and page structure.
+- `styles.css` contains the responsive visual design.
+- `script.js` contains the small navigation and reveal interactions.
+- `Headshot_Samuel.jpg` is the portrait used in the hero.
 
-## 📧 Contact
+## Profile Focus
 
-- **Email**: samuelhalder12@gmail.com
-- **Location**: West Bengal, India
-- **Education**: Computer Science
+- Full-stack web applications
+- WordPress customization
+- Docker, Nginx, and deployment support
+- Streaming and systems experiments
 
-## 🎯 Services Offered
+## Contact
 
-- Mobile App Development
-- Management Systems
-- Dynamic Web Applications
-- WordPress Solutions (themes, plugins, websites)
-- Admin Panels and Dashboards
-- Live Streaming Services (HLS/DASH setup)
-- Landing Pages
-- Database Solutions
-
-## 💼 Skills Highlights
-
-### Frontend
-- HTML5, CSS3, JavaScript
-- React, Tailwind CSS, Bootstrap
-- UI/UX Design, Figma
-
-### Backend
-- Node.js, PHP, Java, Python
-- SQL, XML, Laravel
-
-### Cloud & DevOps
-- AWS, Azure, CI/CD
-- RedHat Linux, System Administration
-
-### Emerging Technologies
-- Web3, Blockchain
-- OpenAI, Data Analysis (R)
-- HLS/DASH Streaming
+- Email: samuelhalder12@gmail.com
+- GitHub: `SamuelHalder`
+- Location: West Bengal, India
